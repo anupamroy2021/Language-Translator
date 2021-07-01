@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606058809177",
+    "project_id": "translator-app-d7173",
+    "storage_bucket": "translator-app-d7173.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606058809177:android:75c5f9f6b633d00241ae48",
+        "android_client_info": {
+          "package_name": "com.madlab.translatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606058809177-7867b5dqiesvdo4ajgr65665tjj5m6a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA6IUZFfJK_P7sD-HoT3r4vd8mNsBBZrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606058809177-7867b5dqiesvdo4ajgr65665tjj5m6a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
